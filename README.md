@@ -157,6 +157,7 @@ https://react-bootstrap.github.io/docs/components/alerts
 href = to
 <a> = Link	  
 React Developer Tools
-		
+
+git remote set-url origin https://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@github.com/Shivam-Singh-12/React.js.git		
 		
 		"# React.js" 
